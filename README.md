@@ -51,6 +51,9 @@ A comprehensive backtest was performed across three key assets, demonstrating th
 | `InpBiasMA_Period` | 20 | Period of the Moving Average for the bias. |
 | `InpRiskPercent` | 1.0 | Risk per trade as a percentage of equity (set to 0.0 for fixed lots). |
 
+## Full Backtesting Report
+
+For a detailed breakdown of the strategy, equity curves, and full performance metrics, please refer to the attached report: [Multi-Asset ORB Backtest Report](Comprehensive_Multi_Asset_Backtesting_Report__Opening_Range_Breakout.md)
 
 ## Disclaimer
 
